@@ -38,7 +38,7 @@ function checkValidation() {
         $('.sbutton').css('cursor','pointer').css('opacity','1')
     
     }else{
-        $('.sbutton').css('cursor','not-allowed').css('opacity','.1')
+        $('.sbutton').css('cursor','not-allowed').css('opacity','.5')
     
     
     }
