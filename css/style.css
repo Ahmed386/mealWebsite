@@ -56,6 +56,7 @@ aside i{
     background-color: black;
 
 }
+
 .sbutton{
     width: unset;
     background-color: transparent;
@@ -85,4 +86,12 @@ aside i{
     transform: translateY(0);
     cursor: pointer;
 
+}
+
+.wraper{
+    width : 50% ; 
+}
+
+@media only screen and (max-width: 600px) {
+  .wraper{width: 80%;}
 }
