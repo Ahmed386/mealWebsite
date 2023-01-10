@@ -87,11 +87,14 @@ aside i{
     cursor: pointer;
 
 }
+input{
+    color:white;
+}
 
 .wraper{
     width : 50% ; 
 }
 
 @media only screen and (max-width: 600px) {
-  .wraper{width: 80%;}
+  .wraper{width: 90%;}
 }
