@@ -52,6 +52,9 @@ aside i{
     border-bottom: 1px solid;
     border-radius: unset;
 }
+input{
+color: white;
+}
  .form-control:focus{
     background-color: black;
 
